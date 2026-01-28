@@ -1,0 +1,76 @@
+e_lit_dataset
+Id;title;creator;Year;url;access_date;Type;technology;interaction_level;textuality;versioning;language;metadata_source;perservation_status;license;short description
+ELIT001;Life is Strange;Dontnod Entertainment;2015;https://apps.apple.com/us/app/life-is-strange/id1180101534;2019-07-xx;Interaction fiction;Unity;High;Non-linear;"Multiple versions
+Laptop/ipad";"English
+French
+German
+Italian
+Japanese
+Portuguese
+Simplified Chinese
+Spanish";"https://directory.eliterature.org/individual-work/4679
+";Live;© Square Enix Ltd.;Life is Strange is an episodic, narrative-driven adventure game where photography student Max Caulfield discovers she can rewind time. 
+ELIT002;Life is Strange: Before the Storm;Dontnod Entertainment;2017;https://apps.apple.com/us/app/before-the-storm/id1373285753?mt=12;2024-12-xx;Interaction fiction;Unity;High;Non-linear;"Multiple versions
+Laptop/ipad";"English
+French
+German
+Italian
+Japanese
+Portuguese
+Simplified Chinese
+Spanish";https://apps.apple.com/us/app/life-is-strange-before-storm/id1293250289;Live;© Square Enix Ltd.;Life is Strange: Before the Storm is a three-part episodic standalone game that serves as a prequel to Life is Strange and is set three years prior to the main game's events. 
+ELIT003;How to Rob a Bank;Alan Bigelow;2016;https://www.webyarns.com/howto/howto.html;2026-01-23;Interaction fiction;"HTML5; css; javascript";Medium;Linear;Stable;English;https://collection.eliterature.org/4/how-to-rob-a-bank;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;How to Rob a Bank is the misadventures of a young and inexperienced bank robber and his female accomplice. Their story is revealed through the searches, texts, apps, and games they use on their phones.
+ELIT004;Dakota;Young-Hae Chang Heavy Industries;2001;https://www.yhchang.com/DAKOTA--25TH_ANNIVERSARY_EDITION.html;2026-01-26;Kinetic poetry;Adobe Flash;None;Linear;Stable;"English
+Korean
+Portuguese
+Spanish";https://directory.eliterature.org/individual-work/4835;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;"Dakota is a fast-paced audiovisual digital poem that synchronizes flashing text with jazz percussion to tell the story of a hard-drinking man racing through America’s heartland, haunted by the death of a friend and pursued by memories of masculinity, desire, and cultural ghosts.
+"
+ELIT005;Please Answer Carefully;Litrouke;2019;https://litrouke.itch.io/please-answer-carefully;2026-01-27;Interaction fiction;Twine;High;Linear;Stable;"English
+Español
+Italiano
+Polski
+Türk
+Svenska
+Bahasa Indonesia
+Português
+한국어
+العربية
+Русский
+Deutsch
+日本語
+Français
+Magyar
+Romanian
+Nederlands
+Ελληνικά
+简体中文
+עברית
+Čeština
+Українська
+Tiếng Việt";https://collection.eliterature.org/4/please-answer-carefully;Live;This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.;Please Answer Carefully explores the horror of the mundane - specifically, the act of taking another mind-numbing survey online - and draws on fears of stalking, control, and surveillance.
+ELIT006;Hours of the Night;"M.D. Coverley 
+
+Stephanie Strickland";2017;http://hoursofthenight.com/;2026-01-28;Kinetic poetry;Power Point;Low;Linear;Multiple versions;English;https://directory.eliterature.org/individual-work/5239;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;Hours of the Night is an aesthetic kinetic poetry created collaboratively with Power Point (also available in video format) that tells about the interrupted pattern of sleep that said to be common at before.
+ELIT007;The Universal Resource Locator;"Luesebrink, Marjorie as Coverley, M. D. 
+
+M.D. Coverley
+(Luesebrink Marjorie)";2000;https://archive.the-next.eliterature.org/luesebrink/url/updated/;2026-01-28;Multimedia;Flash;High;Linear;"Updated
+(Preserved with ruffle.js by the Electronic Literature Lab. Marjorie Luesebrink donated this work to the Electronic Literature Lab in September of 2021.)
+";English (Russian);https://the-next.eliterature.org/works/1065/0/3/;Live;Copyright 2000 M.D. Coverley;"The Universal Resource Locator is ""a combination epistolary-journalistic account of the upheavals that took place in Russia in the last two decades of the 20th Century."
+ELIT008;The Vine and the Fish;Leise Hook;2020;https://www.thebeliever.net/the-vine-and-the-fish/;2026-01-28;"Other
+Digital comics";Computer;Low;Linear;Stable;English;https://directory.eliterature.org/individual-work/5656;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;Asian American literature presented in the form of web comic that tells about the alienation of Asian people especially during the covid-19 period in the US.
+ELIT009;At Nightfall, the Goldfish;Mou Peijing (Melody);2021;https://thenewriver.us/wp-content/uploads/2021/Spring 2021 Full Piece Uploads/Mou-2/AtNightfalltheGoldfish-main 2/Goldfish.html;2026-01-28;Hypertext/interaction fiction;shader, coding;Medium;Non-linear;Stable;English;https://directory.eliterature.org/individual-work/5468;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;
+ELIT010;Dawn;"Alan Sondheim
+Reiner Strasser";2005;https://collection.eliterature.org/1/works/strasser_sondheim__dawn.html;2026-01-28;Kinetic poetry;Flash;High;Linear;"Updated
+(It was originally published on Flash and has since been preserved on Ruffle.)";English;https://directory.eliterature.org/individual-work/5625;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;Dawn is a Flash poem written by Alan Sondheim and composed by Reiner Strasser, centering around themes of love, death, and grieving.
+ELIT011;A Kiss;Dan Waber;2010;https://collection.eliterature.org/4/works/a-kiss/a-kiss.html;2026-01-28;Hypertext;Twine;High;Non-linear;Stable;English;https://directory.eliterature.org/individual-work/5604;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;With a thematic element of romance, A Kiss seems to be a mix between poems and stories.
+ELIT012;Please, don’t touch me!;"René Bauer
+
+Beat Suter";2019;https://pleasedonttouch.and-or.ch/;2026-01-28;"Other
+Video game";Unity;High;Non-linear;Stable;English;https://collection.eliterature.org/4/please-dont-touch-me;Live;All Rights Reserved;"Please, don’t touch me! is an artgame about asymmetric control wherein the player (the ""master"") exerts absolute authority over the avatar."
+ELIT013;hearing litoral voices / bearing literal traces’ : Subliteral Narratives;"John Cayley
+
+Joanna Howard";2019;https://programmatology.shadoof.net/ritajs/subliteral/;2026-01-28;Interaction fiction;"javascript; rita; css";High;Non-linear;Stable;English;https://collection.eliterature.org/4/hearing-litoral-voices-bearing-literal-traces;Live;This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.;The profundity of Subliteral Narratives emanates from the large shifts in semantic meaning that these tiny font differences conjure.
+ELIT014;Afterwords(s): Take a Book/Leave a Book;Richard Holeton;2019;https://web.stanford.edu/~holeton/afterwords/assets/player/KeynoteDHTMLPlayer.html#0;2026-01-28;Kinetic poetry;Keynote;Low;Non-linear;Stable;English;https://directory.eliterature.org/individual-work/5063;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;"Afterword(s): Take a Book/Leave a Book is a ""110-line found poem constructed of lines appropriated from the final passages of 20 different books being 'recycled' by the author. "
+ELIT015;Cyberqueen;Porpentine Charity Heartscape;2012;https://xrafstar.monster/games/twine/cyberqueen/;2026-01-28;"Other
+Video game";Twine;Medium;Non-linear;Stable;English;https://directory.eliterature.org/individual-work/4880;Live;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.;Cyberqueen by Porpentine Heartscape was created in Twine and explores the relationship between human and machine through a series of dialogue, description, and hyperlinked choices made by the reader. 
