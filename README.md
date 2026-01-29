@@ -7,7 +7,8 @@
  - low contrast visual effect
  - contemporary. The earliest one dated back to 2000.
 
-**Data model**
+**Data model** 
+
 The dataset is structured as a CSV file where each row represents
 one electronic literature work.
 
@@ -39,5 +40,6 @@ The selected columns describe:
 These fields were chosen to allow comparison across works while
 remaining simple and consistent.
 
-**Known limitations/biases**
+**Known limitations/biases** 
+
 I'm focusing on e-lit that is more contemporary, game-driven, easy to read, with creators from similar cultural background. 
