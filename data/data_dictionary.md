@@ -1,5 +1,8 @@
 ﻿In the .csv file, there're five type of columns, they're core identification, from and medium, text model&structure, matadata&preservation, and short description. 
 
+The allowed values are specified in bracekets after the corresponding column name. 
+
+
  **1. Core identification**
 - id 
 - title
@@ -24,6 +27,3 @@
 - license 
 
 **5. Short description**
-
-
-> Written with [StackEdit](https://stackedit.io/).
