@@ -38,8 +38,12 @@ The selected columns describe:
 These fields were chosen to allow comparison across works while remaining simple and consistent.
 
 **Known limitations/biases** 
+
 Language limitation:
+
 Most works included are only available in English.
-Temporal limitation:
+
+- Temporal limitation:
+
 I'm focusing on e-lit that is more contemporary. The famous early e-lit are underpresented.
 
