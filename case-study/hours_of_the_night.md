@@ -48,12 +48,18 @@ It is also observed from the terms tool that there're many words marked with red
 To go up and down the _"stairs"_ shows the restlessness of night. _"Tense"_, _"hard_ to sleep", still _"undone"_ shows the experience of insomnia. These words testify that the authors dwell in the subjects of aging, passing of time in this quiet nighttime meditation. But the poem ends with the epitaph of Yeats that instructs passersby to view life and death with detached, stoic objectivity with _"cold"_ eye on life and _"death"_, which is also a reminder for authors themselves. 
 
 5. Reflection
+
 What this object makes possible (affordances)?
+
 This imagery of starry night is vivid and the transition of time from dusk till dawn is more immersive with the help of curated images and sounds. 
+
 What it makes difficult (limits)?
+
 The reading pace differs from person to person, while the timing of each slide is preset. Some people may find it fast, whereas some may find it slow.
 The functionality of this kinetic poetry could not benefit people of visual/vision impairment. 
+
 What would be lost if treated like a print text?
+
 The kinetic poetry becomes static and loses its multimedia attribute. The rhyme and structure solely depends on the permutations and combinations of the only form of text.
 
 Coverley, M.D. and Stephanie Strickland. “Hours of the Night.” _Hyperrhiz: New Media Cultures_, no. 17, 2017. [doi:10.20415/hyp/017.g02](https://doi.org/10.20415/hyp/017.g02)
