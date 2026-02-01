@@ -43,7 +43,7 @@ Language limitation:
 
 Most works included are only available in English.
 
-- Temporal limitation:
+Temporal limitation:
 
 I'm focusing on e-lit that is more contemporary. The famous early e-lit are underpresented.
 
