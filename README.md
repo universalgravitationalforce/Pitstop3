@@ -1,10 +1,10 @@
 # Pitstop3
 **Selection criteria:**
- - free to access(except *Life is Strange* series)
- - compatible with MacOS
- - game driven: Life is Strange, Life is Strange(Before the Storm), Please Answer Carefully, Please, don't touch me!
- - low contrast visual effect, which is friendly for people with photosensitive epilepsy(PSE).
- - contemporary, with the earliest one dates back to 2000.
+ - free to access, except for *Life is Strange* series
+ - compatible with laptop
+ - game—like: _Life is Strange_, _Life is Strange: Before the Storm_, _Please Answer Carefully_, _Please, don't touch me!_
+ - low contrast visual effect, which is friendly for people with photosensitive epilepsy(PSE)
+ - contemporary, with the earliest one dates back to 2000
 
 **Data model** 
 
@@ -38,5 +38,8 @@ The selected columns describe:
 These fields were chosen to allow comparison across works while remaining simple and consistent.
 
 **Known limitations/biases** 
+Language limitation:
+Most works included are only available in English.
+Temporal limitation:
+I'm focusing on e-lit that is more contemporary. The famous early e-lit are underpresented.
 
-I'm focusing on e-lit that is more contemporary and game-driven.
