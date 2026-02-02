@@ -18,9 +18,6 @@ The selected columns describe:
 - year 
 - url
 - access_date
-- publication context
-- formal characteristics
-- access information
 2. Form and medium
 - type
 - technology
